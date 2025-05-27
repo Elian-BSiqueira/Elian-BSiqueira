@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou Elian Barros N.!
 
-<!--
-**Elian-BSiqueira/Elian-BSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente estou cursando **Sistemas de Informação** na [Unifacisa](https://www.unifacisa.edu.br/).
 
-Here are some ideas to get you started:
+💻 Linguagens que já aprendi:
+- Java
+- Python (minha favorita! 🐍)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Ferramentas que utilizo:
+- IDEs da JetBrains (IntelliJ IDEA, PyCharm, etc.)
+
+---
+
+## 📝 Projeto em destaque
+
+### Sistema de Ouvidoria em Python com MySQL
+Um projeto desenvolvido para gerenciar e registrar manifestações usando Python conectado a um banco de dados MySQL.
+
+🔗[Ouvidoria em python](https://github.com/Elian-BSiqueira/Projeto-Ouvidoria-em-Python)
+
+---
+
+## 🚀 Ferramentas e tecnologias
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
+
+---
+
+![Meu GIF animado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY1ZWp4N3R1d3B2NTA1anE4M3NuOHltMjRiM2JiY3hueHl1ejh4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 📫 Contato
+- [Email](elian.b.siqueira@gmail.com)
+
+---
+
+✨ Obrigado por visitar meu perfil!
